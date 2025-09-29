@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Vivek Singh Raghav 👨‍💻  
 
-<!--
-**viveksinghraghav/viveksinghraghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data enthusiast who loves turning raw data into meaningful insights!  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages**: Python, SQL  
+- **Tools**: Excel, Jupyter, Power BI  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Focus  
+- Learning advanced analytics  
+- Building projects in EDA & visualization  
+- Exploring machine learning basics  
+
+## 🌐 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/viveksinghraghav)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vivek-singh-raghav/)  
